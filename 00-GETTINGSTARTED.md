@@ -26,6 +26,10 @@ Note: Traditionally, in web apps, you click a link and wait for a new page to lo
 
      - In MPA approach, some pages are still rendered on and served by the BE server.
 
+### Exploring React.js Alternatives (Angular / Vue)
+
+https://academind.com/tutorials/angular-vs-react-vs-vue-my-thoughts
+
 ### Course Outline
 - Basics and Foundations (Key Features)
 
